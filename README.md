@@ -1,3 +1,3 @@
 # AutoPlug-Releases
-AutoPlug newest releases and information
- - Currently latest version: 0.1
+AutoPlug newest releases here!
+ - Currently latest version: 0.1 (06.05.2020)
