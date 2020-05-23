@@ -1,3 +1,3 @@
 # Development builds
-Download AutoPlug development builds here!
- - Currently latest dev-version: 0.3 (17.05.2020)
+Download AutoPlug development beta builds here!
+ - Currently latest dev-version: 0.5 (23.05.2020)
