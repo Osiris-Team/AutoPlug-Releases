@@ -6,6 +6,8 @@
 - [Spigot](https://www.spigotmc.org/members/osiristeam.935748/)
 - [Discord](https://discord.com/invite/GGNmtCC)
 
-# AutoPlug-Releases
+# AutoPlug | Releases
 Download AutoPlug stable releases here!
  - Currently latest version: 0.6 (29.05.2020)
+ 
+ > Copyright (c) 2020 Osiris Team. All rights reserved. Check the file "LICENSE" for details.
