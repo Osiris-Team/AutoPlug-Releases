@@ -7,7 +7,7 @@
 - [Discord](https://discord.com/invite/GGNmtCC)
 
 # AutoPlug | Releases
-## [ :inbox_tray: Download latest stable-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip)
+## [ :arrow_down: Download latest stable-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip)
 - Current version: 0.6 (29.05.2020)
 
 ## [ :inbox_tray: Download latest dev-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/dev-builds/autoplug-v0.7-BETA-3.zip)
