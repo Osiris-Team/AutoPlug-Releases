@@ -14,4 +14,4 @@
 - Current version: **0.7-BETA3 (23.06.2020)**
  
  
- > Copyright (c) 2020 Osiris Team. All rights reserved. Check the file "LICENSE" for details.
+ > Copyright (c) 2020 Osiris Team. All rights reserved. Read the file "LICENSE" file for details.
