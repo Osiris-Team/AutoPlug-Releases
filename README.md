@@ -10,8 +10,8 @@
 ## [ :arrow_down: Download latest stable-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip)
 - Current version: **0.7 (23.06.2020)**
 
-## [ :arrow_down: Download latest dev-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/dev-builds/autoplug-v0.8-BETA-26.zip)
-- Current version: **0.8-BETA-26 (29.06.2020)**
+## [ :arrow_down: Download latest dev-build](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/dev-builds/autoplug-v0.8-BETA-37.zip)
+- Current version: **0.8-BETA-37 (29.06.2020)**
  
  
  > Copyright (c) 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.
