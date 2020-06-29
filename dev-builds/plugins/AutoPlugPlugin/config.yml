@@ -1,9 +1,0 @@
-#
-#
-# Thank you for downloading AutoPlug!
-# For installation instructions check our Spigot post: https://www.spigotmc.org/resources/autoplug-automatic-plugin-updater.78414/
-#
-#
-excluded-plugins:
-  - AutoPlugPlugin
-  - AnotherPlugin
