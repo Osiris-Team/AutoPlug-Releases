@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
- <head>
-  <style>
-   .small{color: gray;font-size:50%;}
-  </style>
- </head>
-<body>
 
 <div align="center">
 <div>
@@ -33,9 +25,6 @@
 <a href="https://discord.com/invite/GGNmtCC">Discord</a>
  </p>
 
-<p class="small" style="font-size:50%;color:gray;">Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.</p>
+<p style="font-size:50%;color:gray;">Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.</p>
 
 </div>
-
-</body>
-</html>
