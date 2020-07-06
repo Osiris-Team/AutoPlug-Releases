@@ -13,11 +13,11 @@
 <h1>AutoPlug-Releases</h1>
 <p>Download latest beta and stable releases here! 💙</p>
 
-<h2>Stable</h2>
+<h2>Stable ✅</h2>
 <p href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip">Download</p>
 <p>Current version: 0.8 | 02.07.2020</p>
 
-<h2>Beta</h2>
+<h2>Beta ☑️</h2>
 <p href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/autoplug-v0.8-BETA-65.zip">Download</p>
 <p>Current version: 0.8-BETA-65 | 01.07.2020</p>
 
