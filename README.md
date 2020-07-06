@@ -10,6 +10,8 @@
  
 <div align="center">
 <div>
+ <img src="https://i.imgur.com/BMpvtWP.png">
+ 
 <h1>AutoPlug-Releases</h1>
 <p>Download latest beta and stable releases here! 💙</p>
 <p> </p>
