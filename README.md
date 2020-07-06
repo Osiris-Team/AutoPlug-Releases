@@ -1,13 +1,3 @@
-![](https://rapidus-info.webnode.com/_files/200000003-4d08d4d08f/AutoPlug%20GitHub%20Header%20800x80.png)
-- [AutoPlug-Releases](https://github.com/Osiris-Team/AutoPlug-Releases)
-- [AutoPlug-Live-Development](https://trello.com/b/zC8MKgEe/autoplug-development)
-- [AutoPlug-Client](https://github.com/Osiris-Team/AutoPlug-Client)
-- [AutoPlug-Plugin](https://github.com/Osiris-Team/AutoPlug-Plugin)
-- [Spigot](https://www.spigotmc.org/members/osiristeam.935748/)
-- [Discord](https://discord.com/invite/GGNmtCC)
- 
- > Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.
- 
 <div align="center">
 <div>
  <img src="https://i.imgur.com/BMpvtWP.png">
@@ -23,10 +13,16 @@
 <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/autoplug-v0.8-BETA-65.zip">Download</a>
 <p>v0.8-BETA-65 | 01.07.2020</p>
 
-<svg width="400" height="180">
-  <rect x="50" y="20" rx="20" ry="20" width="150" height="150"
-  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
-</svg>
+<h2>Links</h2>
+<a href="https://github.com/Osiris-Team/AutoPlug-Releases">AutoPlug-Releases</a>
+<a href="https://github.com/Osiris-Team/AutoPlug-Client">AutoPlug-Client</a>
+<a href="https://github.com/Osiris-Team/AutoPlug-Plugin">AutoPlug-Plugin</a>
+<a href="https://bit.ly/acprogress">AutoPlug-Client-Development</a>
+<a href="https://bit.ly/approgress">AutoPlug-Plugin-Development</a>
+<a href="https://www.spigotmc.org/members/osiristeam.935748/">Spigot</a>
+<a href="https://discord.com/invite/GGNmtCC">Discord</a>
+
+<p style="font-size:50%;color:gray;">Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.</p>
 
 </div>
 
