@@ -12,6 +12,13 @@
 <div>
  <img src="https://i.imgur.com/BMpvtWP.png">
  
+ <h1>Quick-Links</h1>
+ <ol>
+  <li><a> href="https://trello.com/b/zC8MKgEe/autoplug-development">Test</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+ 
 <h1>Releases</h1>
 <p>Download latest beta and stable releases here! 💙</p>
 
