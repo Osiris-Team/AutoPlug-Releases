@@ -7,8 +7,8 @@
    <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip">Download</a>
    <p>v0.8 | 02.07.2020</p>
    <h2>Beta</h2>
-   <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/autoplug-v0.8-BETA-65.zip">Download</a>
-   <p>v0.8-BETA-65 | 01.07.2020</p>
+   <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlugLauncher.jar">Download</a>
+   <p>v0.9-BETA-01 | 09.07.2020</p>
    <h2>Links</h2>
    <p>
       <a href="https://github.com/Osiris-Team/AutoPlug-Releases">AutoPlug-Releases</a> |
