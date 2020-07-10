@@ -9,6 +9,7 @@
    <h2>Beta</h2>
    <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlugLauncher.jar">Download</a>
    <p>v0.9-BETA-01 | 09.07.2020</p>
+   <p>*Note: Beta releases contain experimental features, which may not work properly!</p>
    <h2>Links</h2>
    <p>
       <a href="https://github.com/Osiris-Team/AutoPlug-Releases">AutoPlug-Releases</a> |
