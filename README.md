@@ -3,7 +3,6 @@
    <img src="https://i.imgur.com/BMpvtWP.png">
    <h1>Releases</h1>
    <p>Download latest beta and stable releases here! 💙</p>
-   <p>    </p>
    <h2>Stable</h2>
    <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/autoplug-latest.zip">Download v0.8 | 02.07.2020</a>
    <h2>Beta</h2>
