@@ -18,5 +18,5 @@
       <a href="https://www.spigotmc.org/members/osiristeam.935748/">Spigot</a> |
       <a href="https://discord.com/invite/GGNmtCC">Discord</a>
    </p>
-   <p style="font-size:50%;color:gray;">Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.</p>
+   <p align="center"><i>Copyright ©️ 2020 Osiris Team. All rights reserved. Read the "LICENSE" file for details.<i></p>
 </div>
