@@ -1,0 +1,11 @@
+[
+  {
+    "id": "0",
+    "installation-path": "./AutoPlug-Client.jar",
+    "version": "5.0.1",
+    "download-url": "https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar",
+    "sha-256": "8573bba96121fd39f68ae9f5465310edb66015ef2326b75ed3654655c525a155",
+    "file-size": 12942733,
+    "main-class": "com.osiris.autoplug.client.Main"
+  }
+]
