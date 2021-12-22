@@ -3,12 +3,12 @@
 </div>
 
 ## Releases
-- [Download latest stable release](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar)
-- [Download latest beta release](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar) 
+- [Download latest stable release.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar)
+- [Download latest beta release.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar) 
 
 ## Notes
 - This is the only, official downloads repository. Do not download for anywhere else.
-- Beta releases contain experimental, poorly tested features, which may not work properly)
+- Beta releases contain experimental, poorly tested features, which may not work properly.
 
 ## Links
     
