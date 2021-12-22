@@ -1,14 +1,15 @@
 <div align="center">
-<div>
    <img src="https://i.imgur.com/BMpvtWP.png">
-   <h1>Releases</h1>
-   <p>Download latest beta and stable releases here! 💙</p>
-   <h2>Stable</h2>
-   <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar">Download latest</a>
-   <h2>Beta</h2>
-   <a href="https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar">Download latest</a>
-   <p><small><i>[Beta releases contain experimental features, which may not work properly. If you face any issues, notify us. Discord is the fastest way. Thank you!]</i></small><p>
-   <h2>Links</h2>
+</div>
+
+## Releases
+- [Download latest stable release](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar)
+- [Download latest beta release](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar) (note that
+beta releases contain experimental, poorly tested features, which may not work properly)
+
+## Links
+    
+<div>
    <p>
       <a href="https://github.com/Osiris-Team/AutoPlug-Releases">AutoPlug-Releases</a> |
       <a href="https://github.com/Osiris-Team/AutoPlug-Client">AutoPlug-Client</a> |
