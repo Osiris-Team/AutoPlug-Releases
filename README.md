@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://i.imgur.com/BMpvtWP.png">
-   <p align="center"><i>This is the only, official downloads repository. Do not download for anywhere else.<i></p>
+   <p align="center"><i>This is the only, official downloads repository. Do not download for anywhere else.</i></p>
 </div>
 
 ## Releases
