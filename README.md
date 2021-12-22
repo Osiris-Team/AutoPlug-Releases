@@ -1,5 +1,6 @@
 <div align="center">
    <img src="https://i.imgur.com/BMpvtWP.png">
+   <p align="center"><i>This is the only, official downloads repository. Do not download for anywhere else.<i></p>
 </div>
 
 ## Releases
@@ -19,5 +20,4 @@ beta releases contain experimental, poorly tested features, which may not work p
       <a href="https://www.spigotmc.org/members/osiristeam.935748/">Spigot</a> |
       <a href="https://discord.com/invite/GGNmtCC">Discord</a>
    </p>
-   <p align="center"><i>This is the only, official downloads repository. Do not download for anywhere else.<i></p>
 </div>
