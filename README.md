@@ -3,8 +3,14 @@
 </div>
 
 ## Releases
-- [Download latest stable release.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar)
-- [Download latest beta release.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar) 
+- [Download latest stable AutoPlug-Client.jar.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/stable-builds/AutoPlug-Client.jar)
+- [Download latest beta AutoPlug-Client.jar.](https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar) 
+
+## Steps
+The recommended/easiest way of installation is via the installer at https://autoplug.one/installer.
+If you don't want to, follow the steps below:
+- If you want to test it first or create a new server, put the jar into a new empty directory. Otherwise put it into your server root, where your server jar is located.
+- Create a start script with `java -jar AutoPlug-Client.jar` inside, run it and you are done.
 
 ## Notes
 - This is the only, official downloads repository. Do not download for anywhere else.
