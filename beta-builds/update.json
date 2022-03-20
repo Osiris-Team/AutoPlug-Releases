@@ -1,4 +1,5 @@
-{
+[
+  {
   "id": "0",
   "installation-path": "./AutoPlug-Client.jar",
   "version": "5.10.0",
@@ -7,3 +8,4 @@
   "file-size": 13054528,
   "main-class": "com.osiris.autoplug.client.Main"
 }
+]
