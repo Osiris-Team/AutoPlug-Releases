@@ -14,6 +14,15 @@ If you don't want to, follow the steps below:
 - If you want to test it first or create a new server, put the jar into a new empty directory. Otherwise put it into your server root, where your server jar is located.
 - Create a start script with `java -jar AutoPlug-Client.jar` inside, run it and you are done.
 
+Linux script:
+```sh
+cd <dir>
+mkdir my-server # Create a new directory at your current location
+cd my-server # Go into the new directory
+curl -o AutoPlug-Client.jar https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar # Download the jar
+java -jar AutoPlug-Client.jar
+```
+
 ## Steps (install update)
 Updating AutoPlug is pretty easy if you have the self-updater enabled (it is by default), so update by...
 - ...waiting for your server to restart.
