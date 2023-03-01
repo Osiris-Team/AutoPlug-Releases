@@ -11,7 +11,8 @@
 ## Steps (first install)
 The recommended/easiest way of installation is via the installer at https://autoplug.one/installer.
 If you don't want to, follow the steps below:
-- If you want to test it first or create a new server, put the jar into a new empty directory. Otherwise put it into your server root, where your server jar is located.
+- If you want to test it first or create a new server, put the jar into a new empty directory. Otherwise put it into 
+the same directory as your server executable (server jar).
 - Create a start script with `java -jar AutoPlug-Client.jar` inside, run it and you are done.
 
 Linux script:
