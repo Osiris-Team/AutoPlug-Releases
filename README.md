@@ -16,7 +16,6 @@ If you don't want to, follow the steps below:
 
 Linux script:
 ```sh
-cd <dir>
 mkdir my-server # Create a new directory at your current location
 cd my-server # Go into the new directory
 curl -o AutoPlug-Client.jar https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar # Download the jar
