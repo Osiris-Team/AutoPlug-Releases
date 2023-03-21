@@ -13,15 +13,35 @@ The recommended/easiest way of installation is via the installer at https://auto
 If you don't want to, follow the steps below:
 - If you want to test it first or create a new server, put the jar into a new empty directory. Otherwise put it into 
 the same directory as your server executable (server jar).
-- Create a start script with `java -jar AutoPlug-Client.jar` inside, run it and you are done.
+- Create a start script with `java -Dfile.encoding=UTF-8 -jar AutoPlug-Client.jar` inside, run it and you are done.
 
-Linux script:
+<details>
+<summary>Show/Hide scripts</summary>
+
+Linux/Unix:
 ```sh
-mkdir my-server # Create a new directory at your current location
-cd my-server # Go into the new directory
-curl -o AutoPlug-Client.jar https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar # Download the jar
-java -jar AutoPlug-Client.jar
+mkdir my-server
+cd my-server
+curl -o AutoPlug-Client.jar https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar
+java -Dfile.encoding=UTF-8 -jar AutoPlug-Client.jar
 ```
+
+Windows:
+```
+mkdir my-server
+cd my-server
+bitsadmin /create myjob
+bitsadmin /addfile myjob https://github.com/Osiris-Team/AutoPlug-Releases/raw/master/beta-builds/AutoPlug-Client.jar .\AutoPlug-Client.jar
+bitsadmin /info myjob
+java -Dfile.encoding=UTF-8 -jar AutoPlug-Client.jar
+```
+
+Each line explained:
+1. Create a new directory at your current location
+2. Go into the new directory
+3. Download the jar
+4. Start the jar
+</details>
 
 ## Steps (install update)
 Updating AutoPlug is pretty easy if you have the self-updater enabled (it is by default), so update by...
