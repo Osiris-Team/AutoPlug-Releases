@@ -47,7 +47,7 @@ Each line explained:
 Updating AutoPlug is pretty easy if you have the self-updater enabled (it is by default), so update by...
 - ...waiting for your server to restart.
 - ...entering .r to restart your server.
-- ...downloading and installing the release manually from https://github.com/Osiris-Team/AutoPlug-Releases
+- ...manually by downloading the jar and replacing the existing one with it.
 
 ## Notes
 - This is the only, official downloads repository. Do not download for anywhere else.
