@@ -1,4 +1,4 @@
-{
+[{
   "id": "0",
   "installation-path": "./AutoPlug-Client.jar",
   "version": "7.3.4",
@@ -6,4 +6,4 @@
   "sha-256": "3a6cba80cf5dc43460dcf40c8b53931710fd8bc8a45efac9864cd25995359d6d",
   "file-size": 15255463,
   "main-class": "com.osiris.autoplug.client.Main"
-}
+}]
